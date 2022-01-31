@@ -1,0 +1,20 @@
+h1 {color: rgba(184, 135, 11, 0.911);
+    text-align: center;
+    font-weight: bold;
+    font-family: cursive;}
+ul{color: rgb(47, 66, 14);
+    text-align: start;
+    text-emphasis: italic;
+    font-family: 'Courier New', Courier, monospace;}
+ol {color: rgb(47, 66, 14);
+    text-align: start;
+    text-emphasis: italic;
+    font-family: 'Courier New', Courier, monospace;}
+h2 {color: rgb(25, 69, 190);
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;}
+h3 {color: rgba(126, 32, 32, 0.87);
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;}
